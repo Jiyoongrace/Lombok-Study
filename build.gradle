@@ -1,0 +1,7 @@
+dependencies {
+    // 다른 의존성들
+
+    implementation 'org.projectlombok:lombok'
+
+    // 다른 의존성들
+}
